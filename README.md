@@ -1,6 +1,6 @@
-# Javascript Instagram feed
+# Kapot official website
 
-A test project to implement an Instagram feed into a website with Javascript.
+Official website of 'Kapot' aggressive rollerblading crew. 
 
 ## Build
 
