@@ -1,17 +1,12 @@
-{% load static %}
+
 <html>
   <head>
-    <link rel="stylesheet" href="{{ STATIC_URL }}styles.css" />
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}"/>
   </head>
 
   <body>
-    {% for tut in tutorials %}
-
-      <p>{{ tut.tutorial_title }}</p>
-      <p>{{ tut.tutorial_published }}</p>
-      <p>{{ tut.tutorial_content|safe }}</p>
-
-    {% endfor %}
+    yeah
   </body>
 
   <script src="{% static 'js/scripts.js' %}"></script>
