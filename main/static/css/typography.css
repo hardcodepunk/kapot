@@ -1,0 +1,19 @@
+/*@font-face {
+    font-family: 'AnotherDanger';
+    src: url('../static/font/AnotherDanger.eot');
+    src: url('../static/font/AnotherDanger.eot') format('embedded-opentype'),
+         url('../static/font/AnotherDanger.woff2') format('woff2'),
+         url('../static/font/AnotherDanger.woff') format('woff'),
+         url('../static/font/AnotherDanger.ttf') format('truetype'),
+         url('../static/font/AnotherDanger.svg#AnotherDanger') format('svg');
+}*/
+
+@font-face {
+  font-family: 'AnotherDanger';
+  src:  local('AnotherDanger'),
+        url('../fonts/AnotherDanger.eot') format('embedded-opentype'),
+        url('../fonts/AnotherDanger.woff2') format('woff2'),
+        url('../fonts/AnotherDanger.woff') format('woff'),
+        url('../fonts/AnotherDanger.ttf') format('truetype'),
+        url('../fonts/AnotherDanger.svg#AnotherDanger') format('svg');
+}
