@@ -68,6 +68,10 @@ body {
   font-weight: 800;
 }
 
+.intro__latest-video__caption__play-btn {
+  height: 40px;
+}
+
 .intro__more-videos {
   width: 100%;
   display: flex;
