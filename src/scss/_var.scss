@@ -1,7 +1,10 @@
-// =============================================
-// Colors
-// =============================================
+// colors
 
-// =============================================
-// Typography
-// =============================================
+
+// fonts
+
+@font-face {
+  font-family: 'Danger';
+  src: url('../fonts/AnotherDanger.woff2') format('woff2'),
+      url('../fonts/AnotherDanger.woff') format('woff');
+}
