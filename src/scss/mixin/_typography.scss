@@ -13,11 +13,11 @@
 }
 
 @mixin title-2 {
-  margin: 0;
-  margin-bottom: 0.7em;
-  font-size: 3em;
-  font-weight: 200;
+  font-size: 62px;
+  text-transform: uppercase;
   text-rendering: optimizeLegibility;
+  font-family: 'Futura PT Condensed Extra Bold', sans-serif;
+  letter-spacing: -1px;
 }
 
 @mixin title-3 {

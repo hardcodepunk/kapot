@@ -4,6 +4,14 @@
 // fonts
 
 @font-face {
+  font-family: 'Futura PT Condensed Extra Bold';
+  src: url('../fonts/FuturaPTCond-ExtraBoldObl.woff2') format('woff2'),
+      url('../fonts/FuturaPTCond-ExtraBoldObl.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
   font-family: 'Danger';
   src: url('../fonts/AnotherDanger.woff2') format('woff2'),
       url('../fonts/AnotherDanger.woff') format('woff');
